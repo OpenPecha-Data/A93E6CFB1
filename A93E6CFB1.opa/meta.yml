@@ -1,0 +1,28 @@
+id: A93E6CFB1
+title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche
+type: translation
+pechas:
+- I377DD8A1
+- I80775E04
+- IA7406763
+- I2F2D36B2
+- I4EA39E60
+source_metadata:
+  languages:
+  - en
+  - de
+  - fr
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:29:29.673794
+  last_modified_at: 2023-01-04 11:29:29.673802
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I377DD8A1/C7E3: 5B57
+  I80775E04/0481: 5B57
+  IA7406763/F2F2: 5B57
+  I2F2D36B2/E021: 5B57
+  I4EA39E60/598D: 5B57
